@@ -11,7 +11,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": null,
    "id": "1c24bed1",
    "metadata": {},
    "outputs": [
@@ -240,7 +240,7 @@
     "from sklearn.metrics import accuracy_score, classification_report\n",
     "import joblib\n",
     "\n",
-    "df = pd.read_csv(r\"C:\\Titanic-Survival-Prediction\\datasets\\breast_cancer.csv\")\n",
+    "df = pd.read_csv(r\"C:\\Breast-Cancer-Detection-API\\datasets\\breast_cancer.csv\")\n",
     "df.head()"
    ]
   },
