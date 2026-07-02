@@ -350,7 +350,7 @@ This project demonstrates practical experience with:
 
 # 👨‍💻 Author
 
-**Sumanth**
+**Sumanth A**
 
 Senior Infrastructure Engineer | Azure | DevOps | Machine Learning Enthusiast
 
