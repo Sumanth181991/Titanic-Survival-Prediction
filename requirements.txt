@@ -7,5 +7,3 @@ jupyter
 ipykernel
 fastapi
 uvicorn
-SQLAlchemy
-psycopg2-binary

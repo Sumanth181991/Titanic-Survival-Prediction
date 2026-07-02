@@ -1,10 +1,9 @@
 from fastapi import FastAPI
 from app.predictor import predict
 from app.schemas import Patient
-from app.database import engine
-from app.models import Base
 
-Base.metadata.create_all(bind=engine)
+
+
 
 app = FastAPI(
     title="Breast Cancer Prediction API",
